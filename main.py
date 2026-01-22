@@ -13,5 +13,5 @@ def main() -> None:
     print(f"Capitalized: {capitalize_words(test_string)}")
 
 if __name__ == "__main__":
-    print("Hi! PARIS")
+    # print("Hi! PARIS")
     main()
